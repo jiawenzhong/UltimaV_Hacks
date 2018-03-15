@@ -1,0 +1,48 @@
+Kyra 
+yellow potion (found) - 280(03)
+
+all potion [280-289]
+items [27a - 289]
+	magic carpet = [20A] ([20a - 219])
+	skull keys = [20b]
+	black badge = [218]
+weapons: [21b-249]
+	magix axe = [240]
+spells = [24A - 279]
+
+reagents: [2aa - 2b1]
+
+gold(found) = 204(04)
+keys = [206]
+gems = [207]
+torches = [208]
+food(found) = 70 - [202]:E7, [203]:27
+
+me:
+level = [18]
+str(found) = 99: [0E]:63, 
+HP(found) - 999 = 3E7: [12]:E7, [13]:03
+hm(found) = 99: [14]:E7, [15]:03
+exp(found) = 9999: [16]:0F, [17]:27
+magic(found) = [11]
+int(found) = 99: [10]:63
+dex(found) = 99: [0F]:63
+
+shamino
+str(found) = 99: [2E]:63, 
+HP(found) - 999: [32]:E7, [33]:03
+hm(found) = 99: [34]:E7, [35]:03
+exp(found) = 9999: [36]:0F, [37]:27
+magic(found) = [11]
+int(found) = 99: [30]:63
+dex(found) = 00: [2F]:63
+
+iolo
+str = 99: [4E]:63, 
+HP(found) - 999 = 3E7: [52]:E7, [53]:03
+hm(found) = 99: [54]:E7, [55]:03
+exp(found) = 9999: [56]:0F, [57]:27
+magic(found) = [11]
+int(found) = 99: [50]:63
+dex(found) = 00: [4F]:63
+
